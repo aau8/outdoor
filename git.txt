@@ -1,0 +1,9 @@
+git add .
+git commit -m "create header"
+git push
+
+
+git clone https://github.com/artemyg0811/outdoor.git
+
+
+git pull
